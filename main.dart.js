@@ -31291,7 +31291,7 @@ return A.X(new A.O(B.D5,new A.ao3(),s),!0,s.i("aa.E"))},
 bbT(a){switch(a.a){case 0:return"TRENDING NOW"
 case 1:return"ALL-TIME POPULAR"
 case 2:return"POPULAR MANHWA"
-case 3:return"TOP 100 MANGA,"
+case 3:return"TOP 100 MANGA"
 case 4:return"MANGA"}},
 ao2(a){switch(a.a){case 0:return"Trending Manga"
 case 1:return"All-Time Popular Manga"
